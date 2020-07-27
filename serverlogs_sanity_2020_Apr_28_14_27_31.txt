@@ -1,0 +1,98 @@
+04/28/2020 02:27:31 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/close {} 
+04/28/2020 02:27:32 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/close HTTP/1.1" 200 14 
+04/28/2020 02:27:32 PM: DEBUG: Finished Request 
+04/28/2020 02:27:32 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/launch {} 
+04/28/2020 02:27:44 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/launch HTTP/1.1" 200 14 
+04/28/2020 02:27:44 PM: DEBUG: Finished Request 
+04/28/2020 02:27:44 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "accessibility id", "value": "apiKeyTxt"} 
+04/28/2020 02:27:45 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 200 137 
+04/28/2020 02:27:45 PM: DEBUG: Finished Request 
+04/28/2020 02:27:45 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0A000000-0000-0000-F560-000000000000/value {"text": "5da1735a6a6b1360986bb2c8c10ae2817e476244\n", "value": ["5", "d", "a", "1", "7", "3", "5", "a", "6", "a", "6", "b", "1", "3", "6", "0", "9", "8", "6", "b", "b", "2", "c", "8", "c", "1", "0", "a", "e", "2", "8", "1", "7", "e", "4", "7", "6", "2", "4", "4", "\n"], "id": "0A000000-0000-0000-F560-000000000000"} 
+04/28/2020 02:27:49 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0A000000-0000-0000-F560-000000000000/value HTTP/1.1" 200 14 
+04/28/2020 02:27:49 PM: DEBUG: Finished Request 
+04/28/2020 02:27:49 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "accessibility id", "value": "Go"} 
+04/28/2020 02:27:50 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 200 137 
+04/28/2020 02:27:50 PM: DEBUG: Finished Request 
+04/28/2020 02:27:50 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0B000000-0000-0000-F560-000000000000/click {"id": "0B000000-0000-0000-F560-000000000000"} 
+04/28/2020 02:27:52 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0B000000-0000-0000-F560-000000000000/click HTTP/1.1" 200 65 
+04/28/2020 02:27:52 PM: DEBUG: Finished Request 
+04/28/2020 02:27:52 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:27:53 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:27:53 PM: DEBUG: Finished Request 
+04/28/2020 02:27:54 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:27:54 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:27:54 PM: DEBUG: Finished Request 
+04/28/2020 02:27:55 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:27:56 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:27:56 PM: DEBUG: Finished Request 
+04/28/2020 02:27:56 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:27:57 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:27:57 PM: DEBUG: Finished Request 
+04/28/2020 02:27:57 PM: INFO: platformVersion-13.0; device-iPhone 11; Input-5da1735a6a6b1360986bb2c8c10ae2817e476244
+; Result-False 
+04/28/2020 02:27:57 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/close {} 
+04/28/2020 02:27:58 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/close HTTP/1.1" 200 14 
+04/28/2020 02:27:58 PM: DEBUG: Finished Request 
+04/28/2020 02:27:58 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/launch {} 
+04/28/2020 02:28:09 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/launch HTTP/1.1" 200 14 
+04/28/2020 02:28:09 PM: DEBUG: Finished Request 
+04/28/2020 02:28:09 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "accessibility id", "value": "apiKeyTxt"} 
+04/28/2020 02:28:09 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 200 137 
+04/28/2020 02:28:09 PM: DEBUG: Finished Request 
+04/28/2020 02:28:09 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0A000000-0000-0000-1461-000000000000/value {"text": "..\n", "value": [".", ".", "\n"], "id": "0A000000-0000-0000-1461-000000000000"} 
+04/28/2020 02:28:13 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0A000000-0000-0000-1461-000000000000/value HTTP/1.1" 200 14 
+04/28/2020 02:28:13 PM: DEBUG: Finished Request 
+04/28/2020 02:28:13 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "accessibility id", "value": "Go"} 
+04/28/2020 02:28:14 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 200 137 
+04/28/2020 02:28:14 PM: DEBUG: Finished Request 
+04/28/2020 02:28:14 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0B000000-0000-0000-1461-000000000000/click {"id": "0B000000-0000-0000-1461-000000000000"} 
+04/28/2020 02:28:16 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0B000000-0000-0000-1461-000000000000/click HTTP/1.1" 200 65 
+04/28/2020 02:28:16 PM: DEBUG: Finished Request 
+04/28/2020 02:28:16 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:28:17 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:28:17 PM: DEBUG: Finished Request 
+04/28/2020 02:28:18 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:28:18 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:28:18 PM: DEBUG: Finished Request 
+04/28/2020 02:28:19 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:28:20 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:28:20 PM: DEBUG: Finished Request 
+04/28/2020 02:28:20 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:28:21 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:28:21 PM: DEBUG: Finished Request 
+04/28/2020 02:28:21 PM: INFO: platformVersion-13.0; device-iPhone 11; Input-..
+; Result-False 
+04/28/2020 02:28:21 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/close {} 
+04/28/2020 02:28:22 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/close HTTP/1.1" 200 14 
+04/28/2020 02:28:22 PM: DEBUG: Finished Request 
+04/28/2020 02:28:22 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/launch {} 
+04/28/2020 02:28:32 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/launch HTTP/1.1" 200 14 
+04/28/2020 02:28:32 PM: DEBUG: Finished Request 
+04/28/2020 02:28:32 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "accessibility id", "value": "apiKeyTxt"} 
+04/28/2020 02:28:33 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 200 137 
+04/28/2020 02:28:33 PM: DEBUG: Finished Request 
+04/28/2020 02:28:33 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0A000000-0000-0000-3461-000000000000/value {"text": "5da1735a6a6b1360986bb2c8c10ae2817e47", "value": ["5", "d", "a", "1", "7", "3", "5", "a", "6", "a", "6", "b", "1", "3", "6", "0", "9", "8", "6", "b", "b", "2", "c", "8", "c", "1", "0", "a", "e", "2", "8", "1", "7", "e", "4", "7"], "id": "0A000000-0000-0000-3461-000000000000"} 
+04/28/2020 02:28:38 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0A000000-0000-0000-3461-000000000000/value HTTP/1.1" 200 14 
+04/28/2020 02:28:38 PM: DEBUG: Finished Request 
+04/28/2020 02:28:38 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "accessibility id", "value": "Go"} 
+04/28/2020 02:28:39 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 200 137 
+04/28/2020 02:28:39 PM: DEBUG: Finished Request 
+04/28/2020 02:28:39 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0B000000-0000-0000-3461-000000000000/click {"id": "0B000000-0000-0000-3461-000000000000"} 
+04/28/2020 02:28:40 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element/0B000000-0000-0000-3461-000000000000/click HTTP/1.1" 200 65 
+04/28/2020 02:28:41 PM: DEBUG: Finished Request 
+04/28/2020 02:28:41 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:28:42 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:28:42 PM: DEBUG: Finished Request 
+04/28/2020 02:28:42 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:28:43 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:28:43 PM: DEBUG: Finished Request 
+04/28/2020 02:28:44 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:28:44 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:28:44 PM: DEBUG: Finished Request 
+04/28/2020 02:28:45 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element {"using": "xpath", "value": "//XCUIElementTypeCell"} 
+04/28/2020 02:28:46 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/element HTTP/1.1" 404 412 
+04/28/2020 02:28:46 PM: DEBUG: Finished Request 
+04/28/2020 02:28:46 PM: INFO: platformVersion-13.0; device-iPhone 11; Input-5da1735a6a6b1360986bb2c8c10ae2817e47; Result-False 
+04/28/2020 02:28:46 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/close {} 
+04/28/2020 02:28:47 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/6bf15acf-f2e6-4f1f-b5a8-8b6265a5ec74/appium/app/close HTTP/1.1" 200 14 
+04/28/2020 02:28:47 PM: DEBUG: Finished Request 

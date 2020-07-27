@@ -1,0 +1,15 @@
+04/28/2020 02:42:32 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/34097496-c9fb-4a5b-8d68-57589d19e395/appium/app/close {} 
+04/28/2020 02:42:34 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/34097496-c9fb-4a5b-8d68-57589d19e395/appium/app/close HTTP/1.1" 200 14 
+04/28/2020 02:42:34 PM: DEBUG: Finished Request 
+04/28/2020 02:42:34 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/34097496-c9fb-4a5b-8d68-57589d19e395/appium/app/launch {} 
+04/28/2020 02:42:44 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/34097496-c9fb-4a5b-8d68-57589d19e395/appium/app/launch HTTP/1.1" 200 14 
+04/28/2020 02:42:44 PM: DEBUG: Finished Request 
+04/28/2020 02:42:44 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/34097496-c9fb-4a5b-8d68-57589d19e395/element {"using": "accessibility id", "value": "apiKeyTxt"} 
+04/28/2020 02:42:45 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/34097496-c9fb-4a5b-8d68-57589d19e395/element HTTP/1.1" 200 137 
+04/28/2020 02:42:45 PM: DEBUG: Finished Request 
+04/28/2020 02:42:45 PM: DEBUG: POST http://127.0.0.1:4723/wd/hub/session/34097496-c9fb-4a5b-8d68-57589d19e395/element/0A000000-0000-0000-B363-000000000000/value {"text": "5da1735a6a6b1360986bb2c8c10ae2817e476244", "value": ["5", "d", "a", "1", "7", "3", "5", "a", "6", "a", "6", "b", "1", "3", "6", "0", "9", "8", "6", "b", "b", "2", "c", "8", "c", "1", "0", "a", "e", "2", "8", "1", "7", "e", "4", "7", "6", "2", "4", "4"], "id": "0A000000-0000-0000-B363-000000000000"} 
+04/28/2020 02:44:37 PM: DEBUG: http://127.0.0.1:4723 "POST /wd/hub/session/34097496-c9fb-4a5b-8d68-57589d19e395/element/0A000000-0000-0000-B363-000000000000/value HTTP/1.1" 400 969 
+04/28/2020 02:44:37 PM: DEBUG: Finished Request 
+04/28/2020 02:44:37 PM: DEBUG: DELETE http://127.0.0.1:4723/wd/hub/session/34097496-c9fb-4a5b-8d68-57589d19e395 {} 
+04/28/2020 02:44:37 PM: DEBUG: http://127.0.0.1:4723 "DELETE /wd/hub/session/34097496-c9fb-4a5b-8d68-57589d19e395 HTTP/1.1" 200 14 
+04/28/2020 02:44:37 PM: DEBUG: Finished Request 

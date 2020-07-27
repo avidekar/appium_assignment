@@ -1,0 +1,6 @@
+[2020_Apr_28_14_27_31] Starting sanity Test for iPhone 11 with 13.0 
+[2020_Apr_28_14_27_57] platformVersion-13.0; device-iPhone 11; Input-5da1735a6a6b1360986bb2c8c10ae2817e476244
+; Result-False 
+[2020_Apr_28_14_28_21] platformVersion-13.0; device-iPhone 11; Input-..
+; Result-False 
+[2020_Apr_28_14_28_46] platformVersion-13.0; device-iPhone 11; Input-5da1735a6a6b1360986bb2c8c10ae2817e47; Result-False 
